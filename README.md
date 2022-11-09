@@ -1,5 +1,5 @@
-# To Visit Linkedlin Clone Demo - [Click Here](https://eitse.github.io/linkedin_clone_reactJs/)
-Fill in the registration Form, Then Click Register Now Before Logging in
+# Linkedlin Clone Demo Tip: Fill in the registration Form, Then Click Register Now Before Logging in
+## To Visit Linkedlin Clone Demo - [Click Here](https://eitse.github.io/linkedin_clone_reactJs/)
 
 # Getting Started with Create React App and Redux
 
